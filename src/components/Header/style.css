@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: red;
+    font-size: 40px;
+
+}
+
+header>img {
+    height: 150px;
+}
